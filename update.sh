@@ -1,6 +1,6 @@
 # bin/bash
 echo "Updating..."
 git add .
-git commit -m "deleted images"
+git commit -m "making things better and up to date"
 git push 
 echo "Done"
